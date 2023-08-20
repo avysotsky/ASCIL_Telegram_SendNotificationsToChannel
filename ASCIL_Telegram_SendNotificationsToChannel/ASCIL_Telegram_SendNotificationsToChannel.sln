@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ASCIL_Telegram_SendNotificationsToChannel", "ASCIL_Telegram_SendNotificationsToChannel.vcxproj", "{EC91052C-6742-4716-92C9-66C6F4249C2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC91052C-6742-4716-92C9-66C6F4249C2B}.Debug|x64.ActiveCfg = Debug|x64
+		{EC91052C-6742-4716-92C9-66C6F4249C2B}.Debug|x64.Build.0 = Debug|x64
+		{EC91052C-6742-4716-92C9-66C6F4249C2B}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC91052C-6742-4716-92C9-66C6F4249C2B}.Debug|x86.Build.0 = Debug|Win32
+		{EC91052C-6742-4716-92C9-66C6F4249C2B}.Release|x64.ActiveCfg = Release|x64
+		{EC91052C-6742-4716-92C9-66C6F4249C2B}.Release|x64.Build.0 = Release|x64
+		{EC91052C-6742-4716-92C9-66C6F4249C2B}.Release|x86.ActiveCfg = Release|Win32
+		{EC91052C-6742-4716-92C9-66C6F4249C2B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC629079-5223-45AE-8A3B-C68762496902}
+	EndGlobalSection
+EndGlobal
